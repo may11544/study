@@ -2,6 +2,6 @@ package mian
 
 import "fmt"
 
-fun main(){
-  fmt.Println("ss)
+func main() {
+	fmt.Println("ss")
 }
