@@ -7,7 +7,7 @@ import (
 
 func main() {
 	fmt.Println("ss")
-	fmt.Println("test222")
+	fmt.Println("test222" + "s")
 	s := test.Student{Name: "ss"}
 	fmt.Println(s)
 }
